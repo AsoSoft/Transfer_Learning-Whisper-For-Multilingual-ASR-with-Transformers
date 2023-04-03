@@ -2,7 +2,7 @@
 ئەمە لەلایان تیمی ئاسۆسفتەوە ئامادە کراوە, بۆ یەکەمین جار کۆستەمایزکردنی زمانی نوێ لە Whisper کە پێشتر نەکرابوو.
 ئێمە توانیمان کۆستەمایزی بکەین بۆ زمانی کوردی بەم چەند گۆرانکاریەی خوارەوە:
 
-![alt text](https://dubverse.ai/wp-content/uploads/2022/09/openai-blog-featured-image.png))
+![alt text](https://dubverse.ai/wp-content/uploads/2022/09/openai-blog-featured-image.png)
 
 ١-لەشوێن بەکارهێنانی تۆکەنایزەری Pretrain, زیاد کردنی تۆکەنایزەری نوێ.
 
