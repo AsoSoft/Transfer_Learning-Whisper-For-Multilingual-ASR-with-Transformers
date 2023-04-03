@@ -2,7 +2,7 @@
 ئەمە لەلایان تیمی ئاسۆسفتەوە ئامادە کراوە, بۆ یەکەمین جار کۆستەمایزکردنی زمانی نوێ لە Whisper کە پێشتر نەکرابوو.
 ئێمە توانیمان کۆستەمایزی بکەین بۆ زمانی کوردی بەم چەند گۆرانکاریەی خوارەوە:
 
-
+![alt text](https://github.com/[hadihaji]/[Transfer_Learning-Whisper-For-Multilingual-ASR-with-Transformers]/openai.png?raw=true)
 
 ١-لەشوێن بەکارهێنانی تۆکەنایزەری Pretrain, زیاد کردنی تۆکەنایزەری نوێ.
 
