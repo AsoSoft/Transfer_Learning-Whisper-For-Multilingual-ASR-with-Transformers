@@ -1,5 +1,5 @@
 ## Transfer_Learning-Whisper-For-Multilingual-ASR-with-Transformers
-ئەمە لەلایان تیمی ئاسۆسفتەوە ئامادە کراوە, بۆ یەکەمین جار کۆستەمایزکردنی زمانی نوێ لە Whisper کە پێشتر نەکرابوو.
+ئەمە لەلایان تیمی ئاسۆسۆفتەوە ئامادە کراوە, بۆ یەکەمین جار کۆستەمایزکردنی زمانی نوێ لە Whisper کە پێشتر نەکرابوو.
 ئێمە توانیمان کۆستەمایزی بکەین بۆ زمانی کوردی بەم چەند گۆرانکاریەی خوارەوە:
 
 ![alt text](https://dubverse.ai/wp-content/uploads/2022/09/openai-blog-featured-image.png)
